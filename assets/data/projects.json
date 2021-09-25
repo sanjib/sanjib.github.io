@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Pac Men",
+    "description": "Features Pac Men creation and animation. Many Pac Men can be created on the screen by clicking the \"Add PacMan\" button. You can create as many as you want and then animate them by clicking the \"Start Game\" button.",
+    "thumb": "https://github.com/sanjib/mit-pac-men/blob/master/src/images/pac-men.gif",
+    "repo": "https://github.com/sanjib/mit-pac-men",
+    "site": "https://sanjib.github.io/mit-pac-men/"
+  },
+  {
+    "name": "Eye Exercise",
+    "description": "A set of eyes follow the cursor movement of the user. This is a fun little exercise that tracks movements of the mouse and translates the coordinates and animates the eyeballs in relation to that.",
+    "thumb": "https://github.com/sanjib/mit-eye-exercise/blob/master/src/images/eye-exercise.gif",
+    "repo": "https://github.com/sanjib/mit-eye-exercise",
+    "site": "https://sanjib.github.io/mit-eye-exercise/"
+  },
+  {
+    "name": "Real-Time Bus Tracker",
+    "description": "The project displays a map of MIT and Harvard with realtime live data of bus routes between the two schools. The real-time position of the busses are updated every 15 seconds indicated by an animating red loading bar at top.",
+    "thumb": "https://github.com/sanjib/real-time-bus-tracker/blob/master/src/images/real-time-bus-tracker.gif",
+    "repo": "https://github.com/sanjib/real-time-bus-tracker",
+    "site": "https://sanjib.github.io/real-time-bus-tracker/"
+  }
+]
